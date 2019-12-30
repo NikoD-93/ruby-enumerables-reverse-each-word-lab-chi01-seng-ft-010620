@@ -1,3 +1,5 @@
+require 'pry'
+
 def reverse_each_word(string) 
   new = []
   array_one = string.split 
